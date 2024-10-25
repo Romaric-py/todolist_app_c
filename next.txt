@@ -1,0 +1,14 @@
+// next.txt
+// Romaric Assogba, this 25 oct. 2024
+
+1/ Dans la fichier utils.c, la fonction ask_int_between, souffre de faille de sécurité héritées du scanf (à corriger).
+A propos, une solution temporaire a été trouvée: lire intégralement caractère par caractère le contenu du stdin avec char afin de le vider.
+
+2/ Assurer la persistance des données en les sauvegardant sur le disque dur
+
+3/ Impléménter la fonction de recherche (on peut se baser su run calcul de simimlarité; cela implique aussi de dévélopper des algos de tris baser sur des fonction de comparaison qui renvoient des entiers (positif >, négatif <, et 0 ==))
+
+4/ Utiliser des macros ou des #define pour certains messages ou erreurs standard
+
+5/ Amélioration progressive: 
+
