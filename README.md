@@ -62,7 +62,7 @@ Contributions are welcome! If you would like to contribute:
 
 ## Authors
 
-- **Romaric Assogba** - *Lead Developer* - [https://github.com/Romaric-py]
+- **Ifèdé Assogba** - *Lead Developer* - [https://github.com/Romaric-py]
 
 ## License
 
