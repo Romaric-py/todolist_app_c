@@ -1,5 +1,5 @@
 // app.c
-// Romaric Assogba, this 24 oct. 2024
+// Ifèdé Assogba, this 24 oct. 2024
 
 #include <stdio.h>
 #include <stdlib.h>

@@ -1,5 +1,5 @@
 // colors.h
-// Romaric Assogba, this 24 oct. 2024
+// Ifèdé Assogba, this 24 oct. 2024
 
 #ifndef COLORS_H
 #define COLORS_H

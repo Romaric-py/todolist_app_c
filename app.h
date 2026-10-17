@@ -1,5 +1,5 @@
 // app.h
-// Romaric Assogba, this 25 oct. 2024
+// Ifèdé Assogba, this 25 oct. 2024
 
 #if !defined(APP_H)
 #define APP_H

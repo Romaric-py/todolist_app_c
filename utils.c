@@ -1,5 +1,5 @@
 // utils.c
-// Romaric Assogba, this 25 oct. 2024
+// Ifèdé Assogba, this 25 oct. 2024
 
 #include <stdio.h>
 #include <stdlib.h>

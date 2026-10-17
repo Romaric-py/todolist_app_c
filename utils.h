@@ -1,5 +1,5 @@
 // utils.h
-// Romaric Assogba, this 25 oct. 2024
+// Ifèdé Assogba, this 25 oct. 2024
 
 #ifndef UTILS_H
 #define UTILS_H

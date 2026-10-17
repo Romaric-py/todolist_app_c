@@ -27,7 +27,7 @@ Before getting started, make sure you have installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Romaric-py/todolist_app_c.git
+   git clone https://github.com/Ifèdé-py/todolist_app_c.git
    ```
 2. Navigate to the project folder:
    ```bash
@@ -62,7 +62,7 @@ Contributions are welcome! If you would like to contribute:
 
 ## Authors
 
-- **Ifèdé Assogba** - *Lead Developer* - [https://github.com/Romaric-py]
+- **Ifèdé Assogba** - *Lead Developer* - [https://github.com/Ifèdé-py]
 
 ## License
 

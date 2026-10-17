@@ -1,5 +1,5 @@
 // todolist.h
-// Romaric Assogba, this 25 oct. 2024
+// Ifèdé Assogba, this 25 oct. 2024
 
 #ifndef TODOLIST_H
 #define TODOLIST_H
