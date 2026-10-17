@@ -14,10 +14,16 @@ int input(char prompt[], char entree[])
     printf("%s", prompt);
     if (fgets(entree, MAX_READ_SIZE, stdin) != NULL)
     {
-        if (entree[strlen(entree) - 1] = '\n')
-            entree[strlen(entree) - 1] = '\0';
+        char *ln_brk = NULL;
+        ln_brk = strchr(entree, '\n');
+        if (ln_brk != NULL)
+            *ln_brk = '\0';
+        else
+            clear_input_buffer();
         return 1;
     }
+
+    clear_input_buffer();
     return 0;
 }
 
